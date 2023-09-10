@@ -2,6 +2,9 @@
 definePageMeta({
   layout: "custom",
 });
+useHead({
+  title: "Contact",
+});
 </script>
 
 <template>
